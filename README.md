@@ -1,4 +1,9 @@
-##### Hi, this is Ian 👋
+#### 👋 Hi, this is Ian.
+- 🤖 I specialized in Python, currently expanding my tech stack with Rust and Nix.
+- 💪 I love Neovim. In my free time, I am actively looking to contribute to open-source projects.
+- 💦 I like diving. I am an AIDA freediver and PADI Divemaster.
+- 👨‍💻 A daily leetcoder - [LeetCode Profile](https://leetcode.com/u/ipuppyian).
+- 🎮 A collector of Steam games - [Steam Profile](https://steamcommunity.com/id/ianliutw).
 
 <!--
 **IanLiuTW/IanLiuTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
