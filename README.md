@@ -1,7 +1,7 @@
-#### 👋 Hi, this is Ian.
-- 🤖 I specialized in Python, currently expanding my tech stack with Rust and Nix.
+#### 👋 Hi, this is Ian...
+- 🤖 I specialized in Python professionally, currently expanding my tech stack with Rust, Nix, and other DevOps tools.
 - 💪 I love Neovim. In my free time, I am actively looking to contribute to open-source projects.
-- 💦 I like diving. I am an AIDA freediver and PADI Divemaster.
+- 💦 I enjoy diving. I am an AIDA freediver and PADI Divemaster. My deepest dives reached -42 meters in both disciplines.
 - 👨‍💻 A daily leetcoder - [LeetCode Profile](https://leetcode.com/u/ipuppyian).
 - 🎮 A collector of Steam games - [Steam Profile](https://steamcommunity.com/id/ianliutw).
 
