@@ -2,8 +2,8 @@
 - 🤖 I specialized in Python professionally, currently expanding my tech stack with Rust, Nix, and other DevOps tools.
 - 💪 I love Neovim. In my free time, I am actively looking to contribute to open-source projects.
 - 💦 I enjoy diving. I am an AIDA freediver and PADI Divemaster. My deepest dives reached -42 meters in both disciplines.
-- 👨‍💻 A daily leetcoder - [LeetCode Profile](https://leetcode.com/u/ipuppyian).
-- 🎮 A collector of Steam games - [Steam Profile](https://steamcommunity.com/id/ianliutw).
+- 👨‍💻 I like solving programming puzzles... for fun. I'm a daily leetcoder - [LeetCode Profile](https://leetcode.com/u/ipuppyian).
+- 🎮 Also, a collector of Steam games - [Steam Profile](https://steamcommunity.com/id/ianliutw).
 
 <!--
 **IanLiuTW/IanLiuTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
