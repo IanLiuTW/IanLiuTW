@@ -3,7 +3,7 @@
 - ⌨️ I love Neovim. In my free time, I am actively looking to contribute to open-source projects.
 - 🐬 I enjoy diving. I am an AIDA freediver and a PADI Divemaster. My deepest dives reached -42 meters in both disciplines.
 - 👨‍💻 I like solving programming puzzles... for fun. I'm a daily leetcoder - [LeetCode Profile](https://leetcode.com/u/ipuppyian).
-- 🎄 I do Advent of Code with Rust - [My Rust solutions of AoC 2024](https://github.com/IanLiuTW/advent-of-code-rust/tree/2024/src/bin).
+- 🎄 I do Advent of Code with Rust - My solutions of [AoC 2024](https://github.com/IanLiuTW/advent-of-code-rust/tree/2024/src/bin) & [AoC 2025](https://github.com/IanLiuTW/advent-of-code-rust/tree/2025/src/bin).
 - 🎮 Lastly, I am a collector of Steam games - [Steam Profile](https://steamcommunity.com/id/ianliutw).
 
 <!--
